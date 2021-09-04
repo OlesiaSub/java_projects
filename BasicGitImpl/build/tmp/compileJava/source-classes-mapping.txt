@@ -1,0 +1,23 @@
+ru/itmo/mit/git/GitFilesHashing.java
+ ru.itmo.mit.git.GitFilesHashing
+ru/itmo/mit/git/GitException.java
+ ru.itmo.mit.git.GitException
+ru/itmo/mit/git/GitConstants.java
+ ru.itmo.mit.git.GitConstants
+ru/itmo/mit/git/GitCli.java
+ ru.itmo.mit.git.GitCli
+ru/itmo/mit/git/GitState.java
+ ru.itmo.mit.git.GitState
+ru/itmo/mit/git/GitStateMaintainer.java
+ ru.itmo.mit.git.GitStateMaintainer
+ru/itmo/mit/git/Main.java
+ ru.itmo.mit.git.Main
+ru/itmo/mit/git/GitCommands.java
+ ru.itmo.mit.git.GitCommands
+ru/itmo/mit/git/GitIndex.java
+ ru.itmo.mit.git.GitIndex
+ru/itmo/mit/git/GitCommits.java
+ ru.itmo.mit.git.GitCommits
+ ru.itmo.mit.git.GitCommits$CommitInfo
+ru/itmo/mit/git/GitCliImpl.java
+ ru.itmo.mit.git.GitCliImpl

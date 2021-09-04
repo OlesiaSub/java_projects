@@ -1,0 +1,8 @@
+ru/itmo/mit/git/TestDataGitTest.java
+ ru.itmo.mit.git.TestDataGitTest
+ru/itmo/mit/git/AbstractGitTest.java
+ ru.itmo.mit.git.AbstractGitTest
+ ru.itmo.mit.git.AbstractGitTest$1
+ ru.itmo.mit.git.AbstractGitTest$TestMode
+ru/itmo/mit/git/GitTest.java
+ ru.itmo.mit.git.GitTest

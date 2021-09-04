@@ -1,0 +1,54 @@
+----------------------------
+Command: init
+Project initialized
+----------------------------
+*Create file 'file.txt' with content 'aaa'
+----------------------------
+Command: add file.txt
+ Addition completed successfully
+----------------------------
+Command: commit Add file.txt
+Commit completed successfully
+----------------------------
+Delete file file.txt
+----------------------------
+Command: status
+On branch: master
+ Current commit hash: xN9oF5BHC2
+
+Deleted files:
+R/home/olesya/HSE_2020-1/java/java_hw1_attempt/java-1-hse-2021/playground/file.txt
+----------------------------
+Command: checkout -- file.txt
+ Checkout completed successfully
+----------------------------
+"Command: content of file file.txt
+aaa
+----------------------------
+Command: status
+On branch: master
+ Current commit hash: xN9oF5BHC2
+Everything is up to date.
+----------------------------
+*Create file 'file.txt' with content 'bbb'
+----------------------------
+"Command: content of file file.txt
+bbb
+----------------------------
+Command: status
+On branch: master
+ Current commit hash: xN9oF5BHC2
+
+Modified files:
+R/home/olesya/HSE_2020-1/java/java_hw1_attempt/java-1-hse-2021/playground/file.txt
+----------------------------
+Command: checkout -- file.txt
+ Checkout completed successfully
+----------------------------
+"Command: content of file file.txt
+aaa
+----------------------------
+Command: status
+On branch: master
+ Current commit hash: xN9oF5BHC2
+Everything is up to date.
